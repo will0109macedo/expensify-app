@@ -50,6 +50,6 @@
     "@babel/preset-env": "^7.16.0",
     "@babel/preset-react": "^7.16.0",
     "enzyme": "^3.0.0",
-    "enzyme-adapter-react-16": "^1.0.0"
+    "enzyme-adapter-react-16": "1.0.0"
   }
 }
